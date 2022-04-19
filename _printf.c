@@ -9,7 +9,7 @@
  * _printf - produces output according to a format
  * @format: The specified format
  *
- * Return: The number of characters that were printed
+ * Return: The number of characters that are printed
  */
 int _printf(const char *format, ...)
 {
